@@ -10,7 +10,6 @@
 
 <div align="center">
  
- 🔭 I’m currently Seeking for **a Job**
  
  🌱 I’m currently learning **NodeJs, PostgreSQl, NoSQl**
 
