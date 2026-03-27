@@ -13,9 +13,8 @@
  
  🌱 I’m currently learning **System design**
 
-💬 Ask me about **Python, SQL, NodeJs... or anything [here](https://github.com/Prasannad02/Prasannad02/issues)**
+💬 Ask me about **Python, SQL... or anything [here](https://github.com/Prasannad02/Prasannad02/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
