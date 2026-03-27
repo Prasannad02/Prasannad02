@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **NodeJs, PostgreSQl, NoSQl**
+ 🌱 I’m currently learning **System design**
 
 💬 Ask me about **Python, SQL, NodeJs... or anything [here](https://github.com/Prasannad02/Prasannad02/issues)**
 
